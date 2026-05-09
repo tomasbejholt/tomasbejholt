@@ -1,14 +1,9 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/templates/line-neon.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c75&height=200&section=header&text=Tomas%20Bejholt&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Tomas</h1>
 <h3 align="center">Python & Machine Learning Student at Nackademin.</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/templates/line-neon.gif" width="60%" />
-</p>
 
 ---
 
@@ -66,22 +61,18 @@ I'm currently looking for an **LIA internship** in AI/ML, data engineering, or b
 ---
 
 ## 📌 Pinned Projects
-*(You can change these anytime via “Customize your pins” on GitHub.)*
 
 - **AI-Agent** – Local AI agent with PowerShell, web search, file I/O and screenshot analysis  
 - **kris-dashboard** – Real-time crisis & incident dashboard for Sweden (Python + Streamlit + Supabase)  
 - **ml-1-streamlit-app** – Machine learning demo app built with Streamlit  
 - **papillon** – Butterfly & moth classifier (FastAPI + PyTorch models + Next.js frontend)  
 - **portfolio** – My personal portfolio website  
-  
+- **Nackademin-Schedule-Bot** – Discord bot that automatically fetches the school schedule
 
 ---
 
 ## 📫 Contact
 - **Portfolio:** https://tomasbejholt.space  
-- **LinkedIn:** www.linkedin.com/in/tomas-bejholt  
+- **LinkedIn:** https://linkedin.com/in/tomas-bejholt  
 - **Email:** tomas_bejholt@outlook.com  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/templates/line-neon.gif" width="100%" />
-</p>
