@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/templates/line-neon.gif" width="100%" />
 </p>
 
-<h1 align="center">👋 Hej, jag är Tomas</h1>
+<h1 align="center">👋 Hi, I'm Tomas</h1>
 <h3 align="center">Python & Machine Learning Student at Nackademin.</h3>
 
 <p align="center">
@@ -12,18 +12,19 @@
 
 ---
 
-## 🚀 Om mig
-Jag studerar Pythonprogrammering inom AI (PIA25) på Nackademin och bygger projekt inom:
+## 🚀 About Me
+I'm currently studying Python programming with a focus on AI (PIA25) at Nackademin.  
+I build projects in:
 
-- **Machine Learning** – modellträning, datahantering, visualisering  
-- **Data Engineering** – ETL, API-integrationer, pipelines  
-- **Webb & DevOps** – Streamlit, FastAPI, Docker, GitHub Actions  
-- **Automatisering** – bots, scraping, schemahantering  
+- **Machine Learning** – model training, data processing, visualization  
+- **Data Engineering** – ETL, API integrations, pipelines  
+- **Web & DevOps** – Streamlit, FastAPI, Docker, GitHub Actions  
+- **Automation** – bots, scraping, scheduling tools  
 
-Utforska mina projekt och demos på min portfolio:  
+Check out my portfolio for demos and projects:  
 👉 **https://tomasbejholt.space**
 
-Just nu söker jag **LIA‑plats** inom AI/ML, data engineering eller backend‑utveckling.
+I'm currently looking for an **LIA internship** in AI/ML, data engineering, or backend development.
 
 ---
 
@@ -65,21 +66,21 @@ Just nu söker jag **LIA‑plats** inom AI/ML, data engineering eller backend‑
 ---
 
 ## 📌 Pinned Projects
-*(Du kan ändra dessa när som helst via “Customize your pins” på GitHub.)*
+*(You can change these anytime via “Customize your pins” on GitHub.)*
 
 - **AI-Agent** – Local AI agent with PowerShell, web search, file I/O and screenshot analysis  
 - **kris-dashboard** – Real-time crisis & incident dashboard for Sweden (Python + Streamlit + Supabase)  
 - **ml-1-streamlit-app** – Machine learning demo app built with Streamlit  
 - **papillon** – Butterfly & moth classifier (FastAPI + PyTorch models + Next.js frontend)  
-- **portfolio** – Min personliga portfolio  
-- **Nackademin-Schedule-Bot** – Discord-bot som hämtar schema automatiskt
+- **portfolio** – My personal portfolio website  
+  
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 - **Portfolio:** https://tomasbejholt.space  
-- **LinkedIn:** *lägg in din länk här*  
-- **Mail:** *valfri adress*  
+- **LinkedIn:** www.linkedin.com/in/tomas-bejholt  
+- **Email:** tomas_bejholt@outlook.com  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/templates/line-neon.gif" width="100%" />
