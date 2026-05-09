@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c75&height=200&section=header&text=Tomas%20Bejholt&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Tomas</h1>
-<h3 align="center">Python & Machine Learning Student at Nackademin.</h3>
+<h3 align="center">Python & Machine Learning Student at Nackademin</h3>
 
 ---
 
@@ -16,8 +21,7 @@ I build projects in:
 - **Web & DevOps** – Streamlit, FastAPI, Docker, GitHub Actions  
 - **Automation** – bots, scraping, scheduling tools  
 
-Check out my portfolio for demos and projects:  
-👉 **https://tomasbejholt.space**
+Portfolio: **https://tomasbejholt.space**
 
 I'm currently looking for an **LIA internship** in AI/ML, data engineering, or backend development.
 
@@ -26,53 +30,30 @@ I'm currently looking for an **LIA internship** in AI/ML, data engineering, or b
 ## 🧰 Tech Stack
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-1F425F?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+Python • JavaScript • SQL • Bash
 
 ### **Machine Learning / AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+PyTorch • Scikit‑learn • Pandas • NumPy
 
 ### **Frameworks & Tools**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+Streamlit • FastAPI • OpenCV • Docker • GitHub Actions
 
 ### **Databases**
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+SQLite • PostgreSQL • MongoDB
 
 ---
 
-## 📊 GitHub Stats (Nord Theme)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasbejholt&show_icons=true&theme=nord&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbejholt&layout=compact&theme=nord&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasbejholt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbejholt&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
-
-- **AI-Agent** – Local AI agent with PowerShell, web search, file I/O and screenshot analysis  
-- **kris-dashboard** – Real-time crisis & incident dashboard for Sweden (Python + Streamlit + Supabase)  
-- **ml-1-streamlit-app** – Machine learning demo app built with Streamlit  
-- **papillon** – Butterfly & moth classifier (FastAPI + PyTorch models + Next.js frontend)  
-- **portfolio** – My personal portfolio website  
-- **Nackademin-Schedule-Bot** – Discord bot that automatically fetches the school schedule
-
----
-
 ## 📫 Contact
-- **Portfolio:** https://tomasbejholt.space  
+
 - **LinkedIn:** https://linkedin.com/in/tomas-bejholt  
 - **Email:** tomas_bejholt@outlook.com  
 
